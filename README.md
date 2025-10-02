@@ -2,9 +2,7 @@
 
 - **Disciplina:** Desenvolvimento Web II
 - **Projeto Escolhido:** Cronômetro Simples
-- **Integrantes:**
-  - [Ana Karine de Freitas Oliveiera](https://github.com/akarinela)
-  - [Humberto Wagner de Sousa](https://github.com/1bertoW)
+- **Integrantes:** [Ana Karine de Freitas Oliveiera](https://github.com/akarinela) e [Humberto Wagner de Sousa](https://github.com/1bertoW)
 
 ---
 
@@ -100,9 +98,9 @@ Esta é a parte central do projeto. A lógica foi implementada da seguinte forma
 
 O resultado final do projeto pode ser visualizado através do link do GitHub Pages abaixo:
 
-**[COLOQUE AQUI O LINK DO SEU GITHUB PAGES]**
+[Cronômetro Simples](https://akarinela.github.io/CronometroSimples/)
 
 ---
 
 ## 5. Prévia do Projeto
-<img width="754" height="820" alt="image" src="https://github.com/user-attachments/assets/2621c3dc-b8c4-452a-92d2-5f211ce07855" />
+<img width="754" height="620" alt="image" src="https://github.com/user-attachments/assets/2621c3dc-b8c4-452a-92d2-5f211ce07855" />
