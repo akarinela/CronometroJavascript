@@ -101,6 +101,3 @@ O resultado final do projeto pode ser visualizado através do link do GitHub Pag
 [Cronômetro Simples](https://akarinela.github.io/CronometroSimples/)
 
 ---
-
-## 5. Prévia do Projeto
-<img width="540" height="620" alt="image" src="https://github.com/user-attachments/assets/2621c3dc-b8c4-452a-92d2-5f211ce07855" />
